@@ -24,6 +24,6 @@ def bonus
   #code your solution here:
   binding.pry 
   epic_tragedy[:montague][:hero][:status]="dead"
-  epic_tragedy[:capulet][:heroine][:status]="dead"
+  capulet][:heroine][:status]epic_tragedy[:="dead"
 end  
   
